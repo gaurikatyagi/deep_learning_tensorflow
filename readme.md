@@ -8,4 +8,6 @@ Navigation steps:
 
 4. Deep_Learning_LogisticRegression.ipynb
 
-5. Deep_Learning_CNN.ipynb
+5. Deep_Learning_ConolutionalNetwork.ipynb
+
+6. Deep_Learning_RecursiveNeuralNetwork.ipynb
