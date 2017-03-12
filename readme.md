@@ -11,3 +11,7 @@ Navigation steps:
 5. Deep_Learning_ConolutionalNetwork.ipynb
 
 6. Deep_Learning_RecursiveNeuralNetwork.ipynb
+
+7. Tensorboard_basics.ipynb
+
+8. Tesorboard_advanced.ipynb
